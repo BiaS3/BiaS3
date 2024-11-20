@@ -1,7 +1,7 @@
  ### Olá, eu sou a Bianca! 👋
 
-Sou uma engenheira Mecânica em transição de carreira para a área de tecnologia, com foco em ciência de dados e análise. 
-Apaixonada por resolver problemas e explorar novas possibilidades, estou construindo projetos que unem minha experiência anterior à minha jornada na área de dados.
+Sou Técnica em Construção Civil/Petróleo e Engenheira Mecânica em transição de carreira para a área de tecnologia, com foco em ciência de dados e análise. 
+Apaixonada por resolver problemas e explorar novas possibilidades, estou construindo projetos que unem minha experiência (+10 anos) anterior à minha jornada na área de dados.
 
 Minha jornada no mundo da tecnologia começou com o curso de **Front-End** pela [Descomplica BR](https://www.descomplica.com.br/), onde desenvolvi meu primeiro projeto prático. Ainda explorando possibilidades, participei de um curso de **NoCode** pelo [NoCode Institute](https://nocodeinstitute.io/), colaborando em um projeto voluntário para uma iniciativa de apoio a mães brasileiras expatriadas. Nesse projeto, contribuí ativamente para o desenvolvimento de uma plataforma que conecta e apoia famílias em situações semelhantes, onde percebi minha paixão por dados.
 
